@@ -34,3 +34,21 @@ C:\Users\Administrador\Documents\ProyectoDB\DATABASE_PROJECT\Hotel_Oasis\Hotel_O
 C:\Users\Administrador\Documents\ProyectoDB\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\Documents\ProyectoDB\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.exe
 C:\Users\Administrador\Documents\ProyectoDB\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.pdb
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\bin\Debug\Hotel_Oasis.exe.config
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\bin\Debug\Hotel_Oasis.exe
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\bin\Debug\Hotel_Oasis.pdb
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.csproj.AssemblyReference.cache
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.Form1.resources
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.frmClientes.resources
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.frmEmpleados.resources
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.frmHabitacion.resources
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.frmMenu.resources
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.frmReservas.resources
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.frmServicio.resources
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.frmServiciosAdicionales.resources
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.frmSucursal.resources
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.Properties.Resources.resources
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.csproj.GenerateResource.cache
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.exe
+C:\Users\ASUS ROG G17\Documents\PROYECTO_BASEDEDATOS\Proyecto\DATABASE_PROJECT\Hotel_Oasis\Hotel_Oasis\obj\Debug\Hotel_Oasis.pdb
