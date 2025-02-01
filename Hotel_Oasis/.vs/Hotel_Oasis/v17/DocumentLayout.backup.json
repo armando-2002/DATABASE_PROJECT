@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\Documents\\ProyectoDB\\DATABASE_PROJECT\\Hotel_Oasis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60F0E42C-3774-477F-9B7D-EFAEB9D172A3}|Hotel_Oasis\\Hotel_Oasis.csproj|c:\\users\\administrador\\documents\\proyectodb\\database_project\\hotel_oasis\\hotel_oasis\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60F0E42C-3774-477F-9B7D-EFAEB9D172A3}|Hotel_Oasis\\Hotel_Oasis.csproj|solutionrelative:hotel_oasis\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60F0E42C-3774-477F-9B7D-EFAEB9D172A3}|Hotel_Oasis\\Hotel_Oasis.csproj|c:\\users\\administrador\\documents\\proyectodb\\database_project\\hotel_oasis\\hotel_oasis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{60F0E42C-3774-477F-9B7D-EFAEB9D172A3}|Hotel_Oasis\\Hotel_Oasis.csproj|solutionrelative:hotel_oasis\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmClientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\ProyectoDB\\DATABASE_PROJECT\\Hotel_Oasis\\Hotel_Oasis\\frmClientes.cs",
+              "RelativeDocumentMoniker": "Hotel_Oasis\\frmClientes.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\ProyectoDB\\DATABASE_PROJECT\\Hotel_Oasis\\Hotel_Oasis\\frmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Hotel_Oasis\\frmClientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:01:27.657Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\Documents\\ProyectoDB\\DATABASE_PROJECT\\Hotel_Oasis\\Hotel_Oasis\\Form1.cs",
+              "RelativeDocumentMoniker": "Hotel_Oasis\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrador\\Documents\\ProyectoDB\\DATABASE_PROJECT\\Hotel_Oasis\\Hotel_Oasis\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Hotel_Oasis\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T13:01:26.947Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
